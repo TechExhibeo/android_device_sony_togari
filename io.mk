@@ -1,9 +1,6 @@
 # Inherit IO common Phone stuff.
 $(call inherit-product, vendor/io/configs/common.mk)
 
-# Enhanced NFC
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
-
 $(call inherit-product, device/sony/togari/full_togari.mk)
 
 # Inherit common Sony resources
