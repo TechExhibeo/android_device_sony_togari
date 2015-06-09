@@ -1,1 +1,2 @@
-add_lunch_combo cm_togari-eng
+add_lunch_combo io_togari-eng
+add_lunch_combo io_togari-userdebug
